@@ -5,10 +5,10 @@
         name="gitlab"
         fetch="https://gitlab.com/" />
   
-  <!-- Device tree for Motorola G10 Power capri (your fork) -->
+  <!-- Device tree for Motorola G9 Play guamp (your fork) -->
   <project
-      path="device/motorola/capri"
-      name="shipukacapri/android_device_motorola_capri"
+      path="device/motorola/guamp"
+      name="shipukacapri/android_device_motorola_guamp"
       remote="github"
       revision="luna-qp2" />
 
@@ -28,8 +28,8 @@
   
   <!-- Vendor blobs for capri (your fork) -->
   <project
-      path="vendor/motorola/capri"
-      name="TheMuppets/proprietary_vendor_motorola_capri"
+      path="vendor/motorola/guamp"
+      name="TheMuppets/proprietary_vendor_motorola_guamp"
       remote="github"
       revision="lineage-23.2" />
 
