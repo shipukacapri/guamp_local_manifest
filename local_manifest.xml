@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote
-        name="gitlab"
-        fetch="https://gitlab.com/" />
   
   <!-- Device tree for Motorola G9 Play guamp (your fork) -->
   <project
       path="device/motorola/guamp"
       name="shipukacapri/android_device_motorola_guamp"
       remote="github"
-      revision="luna-qp2" />
+      revision="derp-qp2" />
 
  <!-- Common device tree for sm6225 platform (your fork) -->
   <project
