@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-  <remote
-        name="gitlab"
-        fetch="https://gitlab.com/" />
   
   <!-- Device tree for Motorola G9 Play guamp (your fork) -->
   <project
@@ -26,7 +22,7 @@
       remote="github"
       revision="lineage-23.2" />
   
-  <!-- Vendor blobs for capri (your fork) -->
+  <!-- Vendor blobs for guamp (your fork) -->
   <project
       path="vendor/motorola/guamp"
       name="TheMuppets/proprietary_vendor_motorola_guamp"
