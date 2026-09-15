@@ -68,16 +68,16 @@
   <!-- MotoCam Common -->
   <project
     name="proprietary_vendor_motorola_MotCamera-common"
-    path="vendor/motorola/ARselfie"
+    path="vendor/motorola/MotCamera-common"
     remote="gitlab-deivid"
     revision="android-16" />
 
     <!-- MotoCam Face Filters -->
   <project
     name="proprietary_vendor_motorola_ARselfie"
-    path="vendor/motorola/MotCamera3AI-bengal"
+    path="vendor/motorola/ARselfie"
     remote="gitlab-deivid"
-    revision="android-16" />
+    revision="android-15" />
 
   <!-- MotoCam Photo editor -->
   <project
