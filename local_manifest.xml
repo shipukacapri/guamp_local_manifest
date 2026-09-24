@@ -2,10 +2,6 @@
 <manifest>
 
   <remote
-        name="github"
-        fetch="https://github.com/" />
-
-  <remote
         name="gitlab-deivid"
         fetch="https://gitlab.com/Deivid21/" />
   
@@ -14,14 +10,14 @@
       path="device/motorola/guamp"
       name="shipukacapri/android_device_motorola_guamp"
       remote="github"
-      revision="voltage-17" />
+      revision="infinity-17" />
 
  <!-- Common device tree for sm6225 platform (your fork) -->
   <project
       path="device/motorola/sm6225-common"
       name="shipukacapri/android_device_motorola_sm6225-common"
       remote="github"
-      revision="voltage-17" />
+      revision="erofs" />
 
    <!-- Kernel tree (your fork) -->
   <project
