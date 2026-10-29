@@ -59,14 +59,14 @@
     name="proprietary_vendor_motorola_MotCamera2"
     path="vendor/motorola/MotCamera2"
     remote="gitlab-deivid"
-    revision="android-16" />
+    revision="android-17" />
 
   <!-- MotoCam Common -->
   <project
     name="proprietary_vendor_motorola_MotCamera-common"
     path="vendor/motorola/MotCamera-common"
     remote="gitlab-deivid"
-    revision="android-16" />
+    revision="android-17" />
 
     <!-- MotoCam Face Filters -->
   <project
@@ -80,34 +80,34 @@
     name="proprietary_vendor_motorola_MotoPhotoEditor"
     path="vendor/motorola/MotoPhotoEditor"
     remote="gitlab-deivid"
-    revision="android-16" />
+    revision="android-17" />
 
   <!-- MotoCam2AI -->
   <project
     name="proprietary_vendor_motorola_MotCamera2AI"
     path="vendor/motorola/MotCamera2AI"
     remote="gitlab-deivid"
-    revision="android-16" />
+    revision="android-17" />
 
   <!-- MotoCamAI Common -->
   <project
     name="proprietary_vendor_motorola_MotCameraAI-common"
     path="vendor/motorola/MotCameraAI-common"
     remote="gitlab-deivid"
-    revision="android-16" />
+    revision="android-17" />
 
   <!-- MotoSignatureApp -->
   <project
     name="proprietary_vendor_motorola_MotoSignatureApp"
     path="vendor/motorola/MotoSignatureApp"
     remote="gitlab-deivid"
-    revision="android-16" />
+    revision="android-17" />
 
   <!-- MotoSettingsProvider -->
   <project
     name="proprietary_vendor_motorola_MotorolaSettingsProvider"
     path="vendor/motorola/MotorolaSettingsProvider"
     remote="gitlab-deivid"
-    revision="android-16" />
+    revision="android-17" />
   
 </manifest>
